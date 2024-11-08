@@ -1,0 +1,16 @@
+PODS:
+  - AlertToast (1.3.9)
+
+DEPENDENCIES:
+  - AlertToast
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AlertToast
+
+SPEC CHECKSUMS:
+  AlertToast: e8db15da727beff75500bcf33a78cd617f408fa1
+
+PODFILE CHECKSUM: edba08b4d489581cfa8dba8d85319c11ea07a104
+
+COCOAPODS: 1.15.2
